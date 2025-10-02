@@ -17,6 +17,26 @@ or
 @ [prompt-name]
 ```
 
+### 2. Using Solution Discussion Prompts
+```
+/prompt solution-discussion
+```
+Use this prompt when you need to:
+- Analyze technical solutions
+- Discuss implementation approaches
+- Evaluate trade-offs between different options
+- Plan implementation strategy
+
+### 3. Using System Design Chat Mode
+```
+/chat mode system-design-discussion
+```
+Ideal for:
+- Architectural decisions
+- System design discussions
+- Scalability planning
+- Component interaction design
+
 ## Common Prompt Usage Scenarios
 
 ### Architecture and Design

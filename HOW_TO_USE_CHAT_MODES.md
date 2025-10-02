@@ -1,6 +1,20 @@
 # How to Use GitHub Copilot Chat Modes - Practical Guide
 
-This guide demonstrates the exact commands and prompts to use with GitHub Copilot Chat modes for developing a retail POS application.
+This guide demonstrates the exact commands and prompts to use with GitHub Copilot Chat modes for developing applications.
+
+## Solution Design & Architecture
+
+1. Start a system design discussion:
+```
+/chat mode system-design-discussion
+I need to design a scalable microservices architecture for a new e-commerce platform. Key requirements include high availability, eventual consistency, and support for real-time inventory updates.
+```
+
+2. Discuss implementation solutions:
+```
+/prompt solution-discussion
+What's the best approach to implement real-time inventory synchronization across multiple microservices while maintaining consistency?
+```
 
 ## Initial Setup
 

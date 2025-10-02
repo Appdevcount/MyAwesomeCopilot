@@ -9,6 +9,20 @@ Prompts can be used in three ways:
 2. Direct questions to Copilot
 3. Context-setting blocks
 
+## Solution Discussion Prompts
+
+### Technical Solution Analysis
+```
+/prompt solution-discussion
+I need to implement a caching strategy for our API to handle high traffic. What are the best approaches considering our microservices architecture?
+```
+
+### System Design Discussion
+```
+/chat mode system-design-discussion
+Let's design a scalable notification system that can handle multiple channels (email, SMS, push) with guaranteed delivery.
+```
+
 ## Code Generation Prompts
 
 ### Domain Model Generation
